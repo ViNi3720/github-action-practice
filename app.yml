@@ -1,4 +1,4 @@
-#This code is generate from chatgpt 
+#This code is generate from chatgpt
 
 class Student:
     def __init__(self, name, roll_no, marks):
