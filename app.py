@@ -1,5 +1,5 @@
 #This code is generate from chatgpt
-
+# use of the function in python
 class Student:
     def __init__(self, name, roll_no, marks):
         self.name = name
