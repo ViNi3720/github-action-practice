@@ -11,4 +11,8 @@ jobs:
     steps:
       - name: Checkout/Clone the code
         uses: actions/checkout@v7 
+
+        #automate kr dete hai linter install kr ke 
+      - name: Install Linter
+        run: pip install ruff
   
